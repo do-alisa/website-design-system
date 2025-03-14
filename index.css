@@ -1,0 +1,54 @@
+body {
+    font-family: 'Nunito Sans';
+    margin: 0 10%;
+}
+
+.section {
+    border: solid lightgray;
+    padding: 1%;
+    margin-bottom: 1%;
+}
+
+.colors {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+    margin: 2% 0;
+}
+
+.skyblue {
+    background-color: #8ed5ec;
+}
+
+.pastelpink {
+    background-color: #f6d1d9;
+}
+
+.lightgreen {
+    background-color: #b7f1a5;
+}
+
+.lighttan {
+    background-color: #f7f0a8;
+}
+
+.fonts {
+    display: inline-block;
+    margin-right: 10%;
+}
+
+.sourcecodepro {
+    font-family: 'Source Code Pro';
+}
+
+.poppins {
+    font-family: Poppins;
+}
+
+u {
+    font-size: large;
+}
+
+.subheading {
+    font-weight: 500;
+}
